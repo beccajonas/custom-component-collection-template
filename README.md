@@ -23,6 +23,6 @@ Made for Support team. 👍 Pre-created components using the following:
 ![CleanShot 2024-11-15 at 15 21 30](https://github.com/user-attachments/assets/7c25207e-acea-45cc-9baf-a008bc3f3c23)
 
 ### DropdownComponentSettings:
-*Dropdown component and useComponentSettings(). Drag on to canvas and notice size it pre-set.*
+*Dropdown component and useComponentSettings(). Drag on to canvas and notice size is pre-set to size defined in repo.*
 
 ![CleanShot 2024-11-15 at 15 22 13](https://github.com/user-attachments/assets/4412188e-48cc-417e-9620-119638fd7e3d)
