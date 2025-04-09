@@ -1,6 +1,6 @@
 ## Custom Component Libraries Template
 
-Clone this repo to to your local machine customize this component library. Follow docs [here](https://docs.retool.com/apps/guides/custom/custom-component-libraries#2-install-dependencies) beginning with `npm install`
+Clone this repo to to your local machine customize this component library. Follow docs [here](https://docs.retool.com/apps/guides/custom/custom-component-libraries#2-install-dependencies) beginning with `npm install` (Be sure your node version is up to date if facing issues)
 
 Made for Support team. 👍 Pre-created components using the following:
 
